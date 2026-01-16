@@ -45,4 +45,4 @@ UI Feedback: Providing instant feedback based on user input
 Clean Code Structure: Writing readable and maintainable vanilla JavaScript
 
 
-🚀 Live Demo: 
+🚀 Live Demo: https://yusufkosardev.github.io/Quiz-App-Project/
