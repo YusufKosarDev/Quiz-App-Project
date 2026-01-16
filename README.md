@@ -43,3 +43,6 @@ JavaScript Logic: Working with arrays, conditions, and state management
 UI Feedback: Providing instant feedback based on user input
 
 Clean Code Structure: Writing readable and maintainable vanilla JavaScript
+
+
+🚀 Live Demo: 
