@@ -1,8 +1,8 @@
-**Quiz App Project**
+# Quiz App Project
 
 This is a simple and interactive Mini Quiz Application built using vanilla HTML, CSS, and JavaScript. It allows users to answer multiple-choice questions and receive instant feedback based on their selections.
 
-📝 What Does It Do?
+## 📝 What Does It Do?
 
 The Mini Quiz App provides a clean and user-friendly interface for testing basic knowledge through a short quiz.
 
@@ -16,7 +16,7 @@ Shows the final score at the end of the quiz
 
 Option to restart the quiz
 
-⚙️ How Does It Work?
+## ⚙️ How Does It Work?
 
 The project is built using core JavaScript concepts such as DOM manipulation and event handling:
 
@@ -30,7 +30,7 @@ Event Listeners: User interactions (click events) are handled dynamically
 
 Quiz Logic: Questions, answers, and score are managed using JavaScript arrays and variables
 
-🎓 What Have I Learned?
+## 🎓 What Have I Learned?
 
 By building this project, I improved my understanding of:
 
@@ -45,4 +45,4 @@ UI Feedback: Providing instant feedback based on user input
 Clean Code Structure: Writing readable and maintainable vanilla JavaScript
 
 
-🚀 Live Demo: https://yusufkosardev.github.io/Quiz-App-Project/
+### 🚀 Live Demo: https://yusufkosardev.github.io/Quiz-App-Project/
